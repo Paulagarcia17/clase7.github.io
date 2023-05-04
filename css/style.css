@@ -1,0 +1,168 @@
+/*index.html*/
+.imgba
+{
+   float: right; 
+}
+
+.header 
+{
+    background-color: rgb(247, 211, 53);
+    color: black;
+    width: fit-content;
+    width: 100%;
+    height:100%;
+    border-width: 5px;
+    border-color:black;
+    border-style: solid;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    padding: 20px;
+    margin: 10px;
+}
+/*footer*/
+.p
+{
+    display: flex;
+    list-style: none;
+    text-transform: uppercase;
+    background-color: rgb(250, 232, 127);
+    padding: 15px;
+    justify-content: space-evenly;
+    align-items: center;
+} 
+
+
+.footer
+{
+    background-color: rgb(241, 208, 21);
+    color: black;
+    width: fit-content;
+    width: 100%;
+    height: 100%;
+    border-width: 5px;
+    border-color:black;
+    border-style: solid;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    text-align: center; 
+    padding: 20px;
+    margin: 10px;
+}
+
+.h1
+{
+    background-color: rgb(241, 208, 21);
+    color: black;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    width: 100%;
+    height: 100%;
+    border-width: 5px;
+    border-color:black;
+    border-style: solid;
+    padding: 20px;
+    margin: 10px;
+}
+
+.lista-nav
+{
+    display: flex;
+    list-style: none;
+    text-transform: uppercase;
+    background-color: rgb(250, 232, 127);
+    padding: 15px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+
+/*Contacto Formulario*/
+
+.contacto
+{
+    font-size: 30px;
+    text-align: center; 
+}
+.formulario 
+{
+    width: fit-content;
+    background-color: rgb(241, 208, 21);
+    color: black;
+    border-style: solid;
+    border-width: 5px;
+    border-color:black;
+}
+/*clima*/
+.clima
+{
+    background-color: rgb(241, 208, 21)
+}
+
+
+
+/*Horario de atención*/
+.dias 
+{
+    background-color: rgb(247, 218, 175);
+    color: black;
+    font-size: 45px;
+    font-weight: bold;   
+}
+
+.dias-semana 
+{
+    background-color: rgb(243, 206, 125);
+    color: black;
+    font-size: 40px;
+    font-weight: bold; 
+}
+
+.horarios 
+{
+    color: black;
+    font-size: 25px;
+    font-style: italic;  
+}
+
+.lunes
+{
+    background-color:rgb(245, 193, 96);
+    
+}
+
+.martes 
+{
+    background-color:rgb(243, 182, 101);
+  
+}
+
+.miercoles
+
+{
+    background-color:rgb(240, 182, 59);
+ 
+}
+.jueves
+{
+    background-color:rgb(241, 190, 50);
+
+}
+.viernes
+{
+    background-color:rgb(243, 161, 38);
+ 
+}
+.sabados 
+{
+    background-color:rgb(245, 171, 33);
+
+}
+.domingos 
+{
+    background-color:rgb(236, 176, 8);
+
+}
